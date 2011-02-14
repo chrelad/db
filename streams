@@ -1,0 +1,14 @@
+[
+	{
+		"name":"di.fm - Chillout Dreams",
+		"mp3":"http://u15c.di.fm:80/di_chilloutdreams"
+	},
+	{
+		"name":"di.fm - Disco House",
+		"mp3":"http://u15c.di.fm:80/di_discohouse"
+	},
+	{
+		"name":"di-fm - Dubstep",
+		"mp3":"http://u14b.di.fm:80/di_dubstep"
+	}
+]
